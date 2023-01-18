@@ -9,7 +9,7 @@ where <username> is replaced by your actual github username.
 
 def greeting():
     # replace KronosKoders with your own username
-    print("Hello KronosKoders")
+    print("Dumbazz112")
 
 
 if __name__ == "__main__":
